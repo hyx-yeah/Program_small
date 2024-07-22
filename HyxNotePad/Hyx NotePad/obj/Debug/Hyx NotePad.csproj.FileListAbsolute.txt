@@ -1,0 +1,11 @@
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\bin\Debug\Hyx NotePad.exe.config
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\bin\Debug\Hyx NotePad.exe
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\bin\Debug\Hyx NotePad.pdb
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx NotePad.csproj.AssemblyReference.cache
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx_NotePad.Form1.resources
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx_NotePad.Properties.Resources.resources
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx NotePad.csproj.GenerateResource.cache
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx NotePad.csproj.CoreCompileInputs.cache
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx NotePad.exe
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx NotePad.pdb
+B:\Learning_And_Devlopment\C#\Hyx NotePad\Hyx NotePad\obj\Debug\Hyx_NotePad.FindReplaceForm.resources

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|b:\\learning_and_devlopment\\c#\\hyx notepad\\hyx notepad\\findreplaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\findreplaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|b:\\learning_and_devlopment\\c#\\hyx notepad\\hyx notepad\\findreplaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\findreplaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|b:\\learning_and_devlopment\\c#\\hyx notepad\\hyx notepad\\findreplaceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\findreplaceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|b:\\learning_and_devlopment\\c#\\hyx notepad\\hyx notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\hyx notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\hyx notepad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB1AA0-9942-4CFC-AE1B-8CAD9678749F}|Hyx NotePad\\Hyx NotePad.csproj|solutionrelative:hyx notepad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\Form1.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.cs",
+              "RelativeToolTip": "Hyx NotePad\\Form1.cs",
+              "ViewState": "AQIAAEACAAAAAAAAAAAhwE4CAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:39:39.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindReplaceForm.cs",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\FindReplaceForm.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.cs",
+              "RelativeToolTip": "Hyx NotePad\\FindReplaceForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAJUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:49:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindReplaceForm.Designer.cs",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\FindReplaceForm.Designer.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.Designer.cs",
+              "RelativeToolTip": "Hyx NotePad\\FindReplaceForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:32:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindReplaceForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\FindReplaceForm.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\FindReplaceForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Hyx NotePad\\FindReplaceForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:47:43.85Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\Form1.Designer.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.Designer.cs",
+              "RelativeToolTip": "Hyx NotePad\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:08:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.cs",
+              "RelativeDocumentMoniker": "Hyx NotePad\\Form1.cs",
+              "ToolTip": "B:\\Learning_And_Devlopment\\C#\\Hyx NotePad\\Hyx NotePad\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Hyx NotePad\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:22:17.24Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
